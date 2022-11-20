@@ -20,3 +20,8 @@ Requirements:
 • The text can be justified left, right, or center within a cell
 • Text can be made bold, italic, or underlined within a cell
 • WYSIWYG editor state should be saved to local storage, so if a user closes the window, their state is restored upon reopening it
+
+===================
+I will be using
+npx create-react-app wysiwyg-slate --template typescript
+npm i slate slate-react
